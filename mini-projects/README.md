@@ -3,4 +3,4 @@
 Sub repository kumpulan mini project React Native
 
 ### Daftar Isi
->> 1.1 <a href="../tree/main/MyTsel">MyTsel</a>
+>> 1.1 MyTsel
